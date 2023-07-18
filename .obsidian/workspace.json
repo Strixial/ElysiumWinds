@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b48eb13d7bccfd41",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b7401ac177589b4e",
@@ -96,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "164c241cb5c379d2",
@@ -113,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -170,11 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b48eb13d7bccfd41",
+  "active": "53650b1ee7a3e352",
   "lastOpenFiles": [
+    "Supreme Witch of the Night.md",
+    "Weapons.md",
     "Gameplay Summary.md",
     "Weapon Types/Standard Issue Blade.md",
-    "Weapons.md",
     "Weapon Types/Koneko Fury.md",
     "Weapon Types/Catgirl Claws.md",
     "Weapon Types/Sandy Vista.md",
@@ -197,7 +192,6 @@
     "The Universe.md",
     "Light.md",
     "Elemental Trace.md",
-    "pseudo-substance.md",
-    "Supreme Witch of the Night.md"
+    "pseudo-substance.md"
   ]
 }
