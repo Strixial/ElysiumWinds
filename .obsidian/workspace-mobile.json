@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supreme Witch of the Night.md",
-                "mode": "source",
+                "file": "Elemental Trace.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Supreme Witch of the Night.md",
+            "file": "Elemental Trace.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Supreme Witch of the Night.md",
+            "file": "Elemental Trace.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Supreme Witch of the Night.md"
+            "file": "Elemental Trace.md"
           }
         }
       }
@@ -133,18 +133,19 @@
   },
   "active": "85a67ab6e2b65fd5",
   "lastOpenFiles": [
+    "Gameplay Summary.md",
+    "Summary.md",
+    "Arkoi.md",
+    "Nightink Solace.md",
     "README.md",
+    "Supreme Witch of the Night.md",
     "/README.md",
     "Cathedral of Death.md",
     "Kham.md",
-    "Nightink Solace.md",
     "Combat.md",
-    "Gameplay Summary.md",
     "Elemental Trace.md",
     "Nightink.md",
-    "Summary.md",
     "Light.md",
-    "The Universe.md",
-    "Arkoi.md"
+    "The Universe.md"
   ]
 }
