@@ -1,0 +1,1 @@
+The sole ruler and creator of [[The Universe]]. 

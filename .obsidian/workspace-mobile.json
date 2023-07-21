@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elemental Trace.md",
-                "mode": "preview",
+                "file": "Light.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Elemental Trace.md",
+            "file": "Light.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Elemental Trace.md",
+            "file": "Light.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Elemental Trace.md"
+            "file": "Light.md"
           }
         }
       }
@@ -133,7 +133,10 @@
   },
   "active": "85a67ab6e2b65fd5",
   "lastOpenFiles": [
+    "Nightink.md",
+    "Light.md",
     "Gameplay Summary.md",
+    "Elemental Trace.md",
     "Summary.md",
     "Arkoi.md",
     "Nightink Solace.md",
@@ -143,9 +146,6 @@
     "Cathedral of Death.md",
     "Kham.md",
     "Combat.md",
-    "Elemental Trace.md",
-    "Nightink.md",
-    "Light.md",
     "The Universe.md"
   ]
 }
