@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elysium Winds.md",
+                "file": "Arkoi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1a0cc0906c97122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guardian Garden.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Elysium Winds.md",
+            "file": "Guardian Garden.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Elysium Winds.md",
+            "file": "Guardian Garden.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Elysium Winds.md"
+            "file": "Guardian Garden.md"
           }
         }
       }
@@ -131,22 +144,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85a67ab6e2b65fd5",
+  "active": "f1a0cc0906c97122",
   "lastOpenFiles": [
+    "Gameplay Summary.md",
+    "Guardian Garden.md",
+    "Arkoi.md",
+    "Combat.md",
+    "Elemental Trace.md",
+    "Cathedral of Death.md",
+    "The Player.md",
+    "Elysium Winds.md",
     "Light.md",
     "Nightink.md",
-    "Elysium Winds.md",
-    "Gameplay Summary.md",
-    "Elemental Trace.md",
     "Summary.md",
-    "Arkoi.md",
     "Nightink Solace.md",
     "README.md",
     "Supreme Witch of the Night.md",
     "/README.md",
-    "Cathedral of Death.md",
     "Kham.md",
-    "Combat.md",
     "The Universe.md"
   ]
 }

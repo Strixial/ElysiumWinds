@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06139ea9871be990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5523c65b8669935d",
+  "active": "06139ea9871be990",
   "lastOpenFiles": [
+    "Gameplay Summary.md",
+    "conflict-files-obsidian-git.md",
+    "Guardian Garden.md",
     "Summary.md",
     "Supreme Witch of the Night.md",
     "Nightink.md",
@@ -167,7 +184,6 @@
     "Arkoi.md",
     "Light.md",
     "The Player.md",
-    "Gameplay Summary.md",
     "Elemental Trace.md",
     "To-Do List.md",
     "README.md",
@@ -183,8 +199,6 @@
     "Weapon Types/Log splitting greatsword.md",
     "Weapon Types/Floraline.md",
     "Weapon Types/Phantablade.md",
-    "Weapon Types/Traveler's Utility Sword.md",
-    "Weapon Types/Theseus.md",
     "Weapon Types"
   ]
 }
