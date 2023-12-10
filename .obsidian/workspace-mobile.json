@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guardian Garden.md",
+                "file": "Storyline/Chapter 1/Act 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Guardian Garden.md",
+            "file": "Storyline/Chapter 1/Act 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Guardian Garden.md",
+            "file": "Storyline/Chapter 1/Act 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Guardian Garden.md"
+            "file": "Storyline/Chapter 1/Act 1.md"
           }
         }
       }
@@ -146,22 +146,28 @@
   },
   "active": "f1a0cc0906c97122",
   "lastOpenFiles": [
-    "Gameplay Summary.md",
-    "Guardian Garden.md",
+    "/Supreme Witch of the Night.md",
+    "/README.md",
+    "/Nightink Solace.md",
     "Arkoi.md",
+    "Storyline/Prologue",
+    "The Player.md",
+    "Storyline/Chapter 1",
+    "Storyline/Chapter 1/Act 1.md",
+    "Storyline",
+    "The Starborn.md",
+    "Light.md",
+    "The Universe.md",
+    "Guardian Garden.md",
+    "Gameplay Summary.md",
     "Combat.md",
     "Elemental Trace.md",
     "Cathedral of Death.md",
-    "The Player.md",
-    "Elysium Winds.md",
-    "Light.md",
     "Nightink.md",
     "Summary.md",
     "Nightink Solace.md",
     "README.md",
     "Supreme Witch of the Night.md",
-    "/README.md",
-    "Kham.md",
-    "The Universe.md"
+    "Kham.md"
   ]
 }

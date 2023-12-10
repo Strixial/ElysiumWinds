@@ -4,6 +4,6 @@ Created by Light themself, each was made in image of the inhabitants of the univ
 
 Both feared and adored throughout the universe, they often come down to worlds in a large show to give out blessings. This is usually the only way people recognise the angels, through the show, so if one descends secretly, no one will know that they could be one.
 
-Each angel is equipped with a weapon granted to them and forged by Light, which is also the source of their power. If they were to lose it or break it, they would not just lose their power, but also the memory that they're an angel. Many an angel are now stranded on worlds, believing they're a normal person when they are in fact an angel.
+Each angel is equipped with an amulet granted to them and forged by Light, which is also the source of their power. If they were to lose it or break it, they would not just lose their power, but also the memory that they're an angel. Many an angel are now stranded on worlds, believing they're a normal person when they are in fact an angel.
 
-Sometimes, however, if the weapon is still nearby, for example if it's on the same world, there could still be faint memories of their past experience as an angel.
+Sometimes, however, if the amulet is still nearby, or if something strongly links back to the past, there could still be faint memories of their past experience as an angel.
