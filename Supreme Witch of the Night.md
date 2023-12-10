@@ -1,4 +1,4 @@
-Kham Detrauss is the regional leader of where Arkoi is in the cosmos and also the Supreme Witch of the Night, in charge of conjuring more nightink from elemental trace.
+Kham Tavish DeTrauss is the regional leader of where Arkoi is in the cosmos and also the Supreme Witch of the Night, in charge of conjuring more nightink from elemental trace.
 
 Her character is a bit strange, where most witches are seen to be calculated and cunning, she is a bit of an airhead and can sometimes seem to lack intelligence, despite her being one of the greatest minds of the universe.
 

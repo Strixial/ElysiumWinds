@@ -2,4 +2,4 @@ Nightink Solaces are buildings of the Nightink where certain important figures t
 
 These usually are built by the nightink, but sometimes existing buildings can be taken over and merely converted if the resident chooses to.
 
-The largest and most important solace on Arkoi is the Cathedral of Death, where [[Kham]] lives.
+The largest and most important solace on Arkoi is the Cathedral of Death, where [[Supreme Witch of the Night|Kham]] lives.
