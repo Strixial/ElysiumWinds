@@ -43,4 +43,5 @@ mila puts you in your cell and shuts the door.
 now with you having escaped the knights headquarters you try and find  a doctor that can help you out. you don't know your way around town, so you get someone to help you out, and they take you to dr kossand, who looks at your wounds and is like "you know those look fine, they don't appear to have caused any major problems, ill just clean them up for you, bandage them up, and you can be on your way" and then mid cleaning mila comes back and she's like "dude what the hell whyd you leave the cell" and you have your dialog options again:
 - "i wanted to get these wounds looked at first" - mila replies "ok, well you could've said that before then. also we gonna let you out 20 minutes ago but then you decide to escape. 
 - "i wasn't willing to be staying in that cell for that long"
-- 
+
+mila is like "ah, whatever. i don't care really, on second thought i should've brought you to the doctor first. you're just some random wanderer. but don't go messing around in the nightink." the adventurer has no idea what nightink is but doesn't say anything, and they go on their way.

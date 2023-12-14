@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arkoi.md",
+                "file": "Locations/Arkoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +25,42 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Locations/Cathedrali Mortis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e32a911de1bc5543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1fbf757577aea71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storyline/Chapter 1/Act 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2882d17b538f75ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Storyline/Chapter 1/Act 1.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Storyline/Chapter 1/Act 1.md",
+            "file": "Locations/Arkoi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Storyline/Chapter 1/Act 1.md",
+            "file": "Locations/Arkoi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Storyline/Chapter 1/Act 1.md"
+            "file": "Locations/Arkoi.md"
           }
         }
       }
@@ -144,30 +180,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1a0cc0906c97122",
+  "active": "d1ebe813742ae77f",
   "lastOpenFiles": [
-    "/Supreme Witch of the Night.md",
-    "/README.md",
-    "/Nightink Solace.md",
-    "Arkoi.md",
-    "Storyline/Prologue",
-    "The Player.md",
-    "Storyline/Chapter 1",
+    "Elemental Resonace.md",
     "Storyline/Chapter 1/Act 1.md",
-    "Storyline",
-    "The Starborn.md",
-    "Light.md",
-    "The Universe.md",
-    "Guardian Garden.md",
-    "Gameplay Summary.md",
-    "Combat.md",
-    "Elemental Trace.md",
-    "Cathedral of Death.md",
+    "Storyline/Prologue/Creation.md",
     "Nightink.md",
-    "Summary.md",
+    "Characters/Supreme Witch of the Night.md",
     "Nightink Solace.md",
-    "README.md",
-    "Supreme Witch of the Night.md",
-    "Kham.md"
+    "Weapons/Traveler's Utility Sword.md",
+    "Weapons/Theseus.md",
+    "Weapons/Standard Issue Blade.md",
+    "Weapons/Rusted Sword.md",
+    "Weapons/Phantablade.md",
+    "Weapons/Log splitting greatsword.md",
+    "Weapons/Koneko Fury.md",
+    "Weapons/Floraline.md",
+    "Weapons/Death's Sickles.md",
+    "Weapons/Cyberinth.md",
+    "Weapons/Catgirl Claws.md",
+    "Starborne.md",
+    "Combat.md",
+    "Summary.md",
+    "Characters/The Starborn.md",
+    "Locations/Library of Shanon.md",
+    "Locations/Cathedrali Mortis.md",
+    "Roblox Engine.md",
+    "Locations",
+    "Locations/Arkoi.md",
+    "Characters/The Adventurer.md",
+    "Characters",
+    "Storyline/Prologue",
+    "Storyline/Chapter 1",
+    "Storyline"
   ]
 }

@@ -1,0 +1,1 @@
+Elemental resonance is how effectively a person can manipulate an element. For example, a fire-resonating person will be more adept at controlling fire then air.
