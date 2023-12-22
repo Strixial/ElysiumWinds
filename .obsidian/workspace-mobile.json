@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storyline/Chapter 1/Act 1.md",
+                "file": "Locations/Arkoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,8 +182,13 @@
   },
   "active": "d1ebe813742ae77f",
   "lastOpenFiles": [
-    "Elemental Resonace.md",
+    "Locations/Cathedrali Mortis.md",
+    "Locations/Kleks Academia.md",
+    "Locations/Library of Shanon.md",
+    "Locations/Różan.md",
     "Storyline/Chapter 1/Act 1.md",
+    "Locations/Arkoi.md",
+    "Elemental Resonace.md",
     "Storyline/Prologue/Creation.md",
     "Nightink.md",
     "Characters/Supreme Witch of the Night.md",
@@ -203,12 +208,7 @@
     "Combat.md",
     "Summary.md",
     "Characters/The Starborn.md",
-    "Locations/Library of Shanon.md",
-    "Locations/Cathedrali Mortis.md",
-    "Roblox Engine.md",
     "Locations",
-    "Locations/Arkoi.md",
-    "Characters/The Adventurer.md",
     "Characters",
     "Storyline/Prologue",
     "Storyline/Chapter 1",
