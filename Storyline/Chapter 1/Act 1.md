@@ -38,9 +38,12 @@ mila puts you in your cell and shuts the door.
 "fuck you bitcj"
 "that's just my job"
 
-(editor note: this is the point in the game where you learn dungeon mechanics and you espace the jail cell get your sword back and try and escape and then after you escape there's a stealth section where you need to escape from the knights headquarters (zapierdoli mnie to potem))
+(editor note: this is the point in the game where you learn dungeon mechanics and you escape the jail cell get your sword back and try and escape and then after you escape there's a stealth section where you need to escape from the knights headquarters (zapierdoli mnie to potem))
 
-now with you having escaped the knights headquarters you try and find  a doctor that can help you out. you don't know your way around town, so you get someone to help you out, and they take you to dr kossand, who looks at your wounds and is like "you know those look fine, they don't appear to have caused any major problems, ill just clean them up for you, bandage them up, and you can be on your way" and then mid cleaning mila comes back and she's like "dude what the hell whyd you leave the cell" and you have your dialog options again:
-- "i wanted to get these wounds looked at first" - mila replies "ok, well you could've said that before then. also we gonna let you out 20 minutes ago but then you decide to escape. 
+now with the adventurer having escaped the knights headquarters they try and find a doctor that can help them out. they don't know their way around town, so they get someone to help them out, and they get taken to frederich, the village doctor, who looks at their wounds and is like "you know those look fine, they don't appear to have caused any major problems, ill just clean them up for you, bandage them up, and you can be on your way" and then mid cleaning mila comes back and she's like "dude what the hell whyd you leave the cell" and then you have your dialog options again:
+- "i wanted to get these wounds looked at first" - mila replies "ok, well you could've said that before then.
 - "i wasn't willing to be staying in that cell for that long"
-- 
+- "ummm i dont know"
+mila then says "also we gonna let you out 20 minutes ago but then you decide to escape and we had to spend that time searching for you instead."
+
+the adventurer then tries to reason with mila whether getting questioned is even worth it and mila ends up being like "yeah fair point but were you doing anything bad? no? ok dont go there next time thank you" so thats done
