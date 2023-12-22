@@ -1,4 +1,4 @@
-Elysium Winds has many weapons for players to fight with.
+Starborne has many weapons for players to fight with.
 
 See:
 - [[Rusted Sword]]

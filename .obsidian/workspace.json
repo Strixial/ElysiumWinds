@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb5c9f32b8490f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storyline/Chapter 1/Act 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storyline/Chapter 1/Act 1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storyline/Chapter 1/Act 1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,37 +169,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5523c65b8669935d",
+  "active": "cb5c9f32b8490f75",
   "lastOpenFiles": [
-    "Gameplay Summary.md",
-    "The Starborn.md",
     "Storyline/Chapter 1/Act 1.md",
+    "conflict-files-obsidian-git.md",
+    "Weapons/Theseus.md",
+    "Weapons/Traveler's Utility Sword.md",
+    "Weapons/Standard Issue Blade.md",
+    "Weapons/Sandy Vista.md",
+    "Weapons/Rusted Sword.md",
+    "Weapons/Phantablade.md",
+    "Weapons/Log splitting greatsword.md",
+    "Weapons/Koneko Fury.md",
+    "Weapons/Floraline.md",
+    "Weapons/Cyberinth.md",
+    "Weapons/Death's Sickles.md",
+    "Weapons/Catgirl Claws.md",
+    "Weapons",
+    "Storyline/Prologue/Creation.md",
+    "Storyline/Prologue",
+    "Starborne.md",
+    "Locations/Różan.md",
+    "Locations/Library of Shanon.md",
+    "Locations/Kleks Academia.md",
+    "Locations/Cathedrali Mortis.md",
+    "Locations/Arkoi.md",
+    "Locations",
+    "Elemental Resonace.md",
+    "Characters/The Universe.md",
+    "Characters/The Adventurer.md",
+    "Characters/The Starborn.md",
+    "Characters/Supreme Witch of the Night.md",
+    "Characters",
     "Storyline/Chapter 1",
     "Storyline",
-    "conflict-files-obsidian-git.md",
-    "Guardian Garden.md",
-    "Summary.md",
-    "Supreme Witch of the Night.md",
-    "Nightink.md",
-    "Nightink Solace.md",
-    "Elysium Winds.md",
-    "Combat.md",
-    "Arkoi.md",
-    "Light.md",
-    "The Player.md",
-    "Elemental Trace.md",
-    "To-Do List.md",
-    "README.md",
     "Untitled.canvas",
-    "2023-07-18.md",
-    "Weapons.md",
-    "Weapon Types/Standard Issue Blade.md",
-    "Weapon Types/Koneko Fury.md",
-    "Weapon Types/Catgirl Claws.md",
-    "Weapon Types/Sandy Vista.md",
-    "Weapon Types/Cyberinth.md",
-    "Weapon Types/Death's Sickles.md",
-    "Weapon Types/Log splitting greatsword.md",
     "Weapon Types"
   ]
 }
