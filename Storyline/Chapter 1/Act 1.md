@@ -64,7 +64,7 @@ anyway so she's actually called evana meginus and she's a retired witch and curr
 "oh. hmm. i wonder what that comet looked like."
 "you know, it was really pretty, actually. kind of reminded me of what a starborne descension looks like. well, not like i've seen one in person, but i've read accounts of it and seen some artists impressions of it from when one did happen, several centuries ago."
 she pulls out the keys to her library and starts unlocking the door.
-"but i'd doubt that you're a starborne."
+"but i'd doubt that you're one of the starborne."
 she opens the door to her library and gestures you in.
 "well, come on in."
 
@@ -93,7 +93,8 @@ With that, she sat back up again. "Sorry for looking for so long. I've just neve
 "Interesting."
 "But what could it be? I only came here today. I haven't lost anything dear to me."
 "You know, some people are like that when they lose their elemental resonance. A little charm that is a source of very pure elemental energy, resonating towards a specific type, like fire, water, air, ground, and such. Maybe you lost yours, and because of your unique soul, it happened to take your memories away as well. Which might be true. When I looked into your eyes, I couldn't really tell what element you might resonate with. It's as though you resonated with all of them. Wait, come outside with me. I want to see something."
-She gets up and walked back to the library door, with the adventurer in close suit. The pair come outside, and Evana went to the riverbank. The adventurer did the same, looking at the water. Evana looks at them.
+
+She got up and walked back to the library door, with the adventurer in close suit. The pair come outside, and Evana went to the riverbank. The adventurer did the same, looking at the water. Evana looks at them.
 "Do you think you can control the water?"
 "Hmm? Like, how?"
 "If you look at it, do you feel like you could command it to do as you want?"
@@ -102,7 +103,8 @@ The adventurer glanced back at the flowing water.
 They tried to control the water, but nothing seemed to work.
 "Maybe get in the water?"
 "Why!? I'll get soaked!"
-"That's the idea. The more hydroneous energy you have access to, the easier it'll get"
+"That's the idea. The more hydroneous energy you have access to, the easier it'll get."
+
 The adventurer got in the water and inevitably got soaked. "Alright. I'll try now.", they muttered to themself.
 The adventurer raised their hand and tried their elemental force. A jet of water erupted out of their raised hand, splashing back into the river, causing a massive spray of mist to splash back up, with Evana looking on in shock and amazement.
 "Incredible! I've never seen someone untrained focus energy like that before!"
