@@ -15,4 +15,5 @@ At one point, a debate about whether the roses should remain in the city sparked
 Some say that the reason that the roses bloom so much and so deeply red as they do in Rozan is because of how much blood is spilt in the city.
 ## Geography
 ---
-Built upon the river Vena, which once served as a way for traders to reach the city, 
+Built upon the river Vena, which once served as a way for traders to reach the city. Other than that, there's not much else to say about it.
+

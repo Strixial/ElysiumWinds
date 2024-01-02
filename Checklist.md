@@ -1,0 +1,8 @@
+- Set gravity to 35 -done
+- Put dim light around player - done
+- Change stamina meter color to yellow - done
+- Add meter lines - done
+- Make compass font larger - done
+- Patch wind shake module to add shake multiplier - done
+- increase wind speed - done
+- Remove Core GUI

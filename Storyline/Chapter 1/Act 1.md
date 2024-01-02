@@ -43,14 +43,71 @@ mila puts you in your cell and shuts the door.
 now with the adventurer having escaped the knights headquarters they try and find a doctor that can help them out. they don't know their way around town, so they get someone to help them out, and they get taken to frederich, the village doctor, who looks at their wounds and is like "you know those look fine, they don't appear to have caused any major problems, ill just clean them up for you, bandage them up, and you can be on your way" and then mid cleaning mila comes back and she's like "dude what the hell whyd you leave the cell" and then you have your dialog options again:
 - "i wanted to get these wounds looked at first" - mila replies "ok, well you could've said that before then.
 - "i wasn't willing to be staying in that cell for that long"
-<<<<<<< HEAD
 - "ummm i dont know"
 mila then says "also we gonna let you out 20 minutes ago but then you decide to escape and we had to spend that time searching for you instead."
-
 the adventurer then tries to reason with mila whether getting questioned is even worth it and mila ends up being like "yeah fair point but were you doing anything bad? no? ok dont go there next time thank you" so thats done
-=======
 
 mila is like "ah, whatever. i don't care really, on second thought i should've brought you to the doctor first. you're just some random wanderer. but don't go messing around in the nightink." the adventurer has no idea what nightink is but doesn't say anything, and they go on their way.
 
-so now you're basically back where you started 
->>>>>>> origin/master
+so now you're basically back where you started but now you're a bit more curious about the forest so you ask someone who tells you there's a nightink infection there and you're like "what's nightink" and they laugh at you because who hasn't heard of nightink?? (just saying its you), and then someone from behind approaches and she's like "oh you don't know what nightink is?" and youre like "no" and then she's like "hmmm come with me"
+
+anyway so she's actually called evana meginus and she's a retired witch and current town librarian, and she takes her to her library that's built in an old decommissioned water mill and she seems pretty interested in you because you don't seem to know anything about this world at all because she had a conversation with you on the way to the library that went like this:
+"so, you really don't know what nightink is?"
+"no"
+"makes sense. your energy signature doesn't match a typical one from the signatures that people on arkoi have, so you probably don't come from this world at all, right?"
+"i don't?"
+"no, but then again, you could just have had it rearranged in a strange way, given how you don't seem to remember anything at all. do you remember fighting anything particularly powerful? or maybe you stumbled into the nightink? i heard you were found wandering around in a forest that's been corrupted."
+"yeah, i was, but around an hour before that i was still passed out on the beach, covered in water, and i was just looking around wondering where the hell i am."
+"my, what a strange set of circumstances. perhaps you were that comet that lit up the sky a few days ago, hmm?"
+"uhhh, what?"
+"i'm just joking. no mortal would be able to survive that without burning to a crisp. besides, how you would've gotten that high into the sky in the first place also raises several questions."
+"oh. hmm. i wonder what that comet looked like."
+"you know, it was really pretty, actually. kind of reminded me of what a starborne descension looks like. well, not like i've seen one in person, but i've read accounts of it and seen some artists impressions of it from when one did happen, several centuries ago."
+she pulls out the keys to her library and starts unlocking the door.
+"but i'd doubt that you're a starborne."
+she opens the door to her library and gestures you in.
+"well, come on in."
+
+Evana's library is fairly large yet cozy, with lots of rows of bookshelves, neatly arranged books sitting on them, all carefully preserved. signs, indexes and notices all hang from the side walls of the shelves. In a centre aisle, desks with all sorts of useful devices, like magnifying glasses, ink pots, and lamps, with comfortable chairs to match. At the head of the library, a large desk sits, clearly belonging to her, with an equally large catalog sitting in the centre, with two staircases behind as well to reach the next floor.
+
+After locking the door behind her, she looks back at the adventurer. "Normally, today the library is closed for me to run other errands and clean up in here. So it'll be just us two in here". She walks over to her desk and hangs the keys on a little hook just underneath it. "Which is nice. I like having it quiet in here. Come, sit down." She walks over to one of the desks in the centre aisle, and the adventurer goes to it and sits on the chair by it. She also takes a chair, and sits in front of them. "Hold still for a moment. Oh, and open your eyes a bit wider. I need a closer look at them." She opens her purse and pulls out something that was like a pocket magnifying glass, except the glass was made of a glassy, black stone. She held it up to her guest's eyes, and started carefully inspecting them.
+
+"Oh, my. Truly incredible. I haven't seen anything quite like this, ever."
+"Hmm? Um, thanks. I'm glad you like my eyes. Uh, for that matter, how are you seeing through that? It looks completely dark."
+She pulls back, and shows the magnifying glass.
+"Ah, yes. This is a special kind of magnifying glass. In place of glass, however, it uses an exceptionally pure and treated nightstone crystal, honed into a specific shape to. It's used for inspecting elemental traces and such."
+She holds it back up to their eyes, and peers through again.
+"But it's also useful for looking at your eyes."
+"That's quite nice. Although it'd be a bit strange for a librarian to own one, I think. Maybe someone like a detective or a witch might have more use out of it."
+"Well, who knows? Maybe at one point I was a witch or a detective. Anyway, I can't stop looking at your eyes. They're so beautiful. It's like there's an entire universe hidden within. If I looked long enough, I would probably get some kind of madness."
+With that, she sat back up again. "Sorry for looking for so long. I've just never seen eyes like that. So pretty."
+"Ah, um, thanks. So, um, do you know where I'm from now?"
+"Oh, no. I can't tell things like that. Well, I could, but I'd need a lot more analysis on you. Things like cutting you open and taking some tissue samples from your internal organs."
+"Um, I'd rather not."
+"Good. I don't want to do that either to you. Anyway, what I do know is that you definitely are... uniquely powerful. And you most certainly aren't from our world."
+"Oh. Well, that answers at least one question."
+"Yes. Also, I constantly saw a feeling of longing for something in your eyes."
+"I mean, I suppose. I want to figure out who I am, and why I'm here."
+"No, something else. Like you lost something very special to you."
+"Hmm. I don't know. I just came here today, so I haven't lost anything that dear to me. But now that you mention it, I... know what you mean. I feel like I am missing something. Something really important, like a part of me."
+"Interesting."
+"But what could it be? I only came here today. I haven't lost anything dear to me."
+"You know, some people are like that when they lose their elemental resonance. A little charm that is a source of very pure elemental energy, resonating towards a specific type, like fire, water, air, ground, and such. Maybe you lost yours, and because of your unique soul, it happened to take your memories away as well. Which might be true. When I looked into your eyes, I couldn't really tell what element you might resonate with. It's as though you resonated with all of them. Wait, come outside with me. I want to see something."
+She gets up and walked back to the library door, with the adventurer in close suit. The pair come outside, and Evana went to the riverbank. The adventurer did the same, looking at the water. Evana looks at them.
+"Do you think you can control the water?"
+"Hmm? Like, how?"
+"If you look at it, do you feel like you could command it to do as you want?"
+The adventurer glanced back at the flowing water.
+"I don't know. Maybe not, but I could try."
+They tried to control the water, but nothing seemed to work.
+"Maybe get in the water?"
+"Why!? I'll get soaked!"
+"That's the idea. The more hydroneous energy you have access to, the easier it'll get"
+The adventurer got in the water and inevitably got soaked. "Alright. I'll try now.", they muttered to themself.
+The adventurer raised their hand and tried their elemental force. A jet of water erupted out of their raised hand, splashing back into the river, causing a massive spray of mist to splash back up, with Evana looking on in shock and amazement.
+"Incredible! I've never seen someone untrained focus energy like that before!"
+"Um. I didn't know what I was doing. That's... really awesome."
+"I know! Alright, come out of the water."
+The adventurer got back out of the river, completely soaked.
+"You might not even need to dry off yourself. Try and command the air around you. It's harder, since it's not as dense as water, but give it a shot. Just try and dry yourself off."
+Again, the adventurer tried their elemental force. A massive gust of wind 

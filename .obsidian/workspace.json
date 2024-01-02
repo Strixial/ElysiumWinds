@@ -13,9 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Różan.md",
+                "file": "Storyline/Chapter 1/Act 1.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "313391a68f640006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Checklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4c8172d3815917b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Różan.md",
+                "file": "Storyline/Chapter 1/Act 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Różan.md",
+                "file": "Storyline/Chapter 1/Act 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Różan.md"
+                "file": "Storyline/Chapter 1/Act 1.md"
               }
             }
           },
@@ -158,10 +180,12 @@
   },
   "active": "5523c65b8669935d",
   "lastOpenFiles": [
+    "Checklist.md",
+    "Storyline/Chapter 1/Act 1.md",
+    "Elemental Resonace.md",
+    "Locations/Różan.md",
     "30 Year Bloodshed.md",
     "Royal Society of Explorers.md",
-    "Locations/Różan.md",
-    "Storyline/Chapter 1/Act 1.md",
     "conflict-files-obsidian-git.md",
     "Weapons/Theseus.md",
     "Weapons/Traveler's Utility Sword.md",
@@ -184,9 +208,7 @@
     "Locations/Cathedrali Mortis.md",
     "Locations/Arkoi.md",
     "Locations",
-    "Elemental Resonace.md",
     "Characters/The Universe.md",
-    "Characters/The Adventurer.md",
     "Characters",
     "Storyline/Chapter 1",
     "Storyline",
